@@ -1,0 +1,2 @@
+GET /api/courses/ 304 - - 8.146 ms
+::1 - - [03/Feb/2022:18:19:08 +0000] "GET /api/courses/ HTTP/1.1" 304 -
